@@ -16,6 +16,6 @@ http://www.fakenamegenerator.com/license.php
 
 # GO-TAMBOON
 
-The Rot128, its test code and the dummy data file, where applicable, are private property of Omise company.
+The Rot128, its unit test code and the sample CSV data file, where applicable, are private property of Omise company.
 
 Copyright © 2018 Omise Co., Ltd. All Rights Reserved.
